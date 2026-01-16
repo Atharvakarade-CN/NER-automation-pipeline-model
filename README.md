@@ -77,3 +77,5 @@ Step 6: Power BI dashboard auto-refreshes
 - Highly scalable
 - Cloud-enabled
 - Multi-database & multi-format suppor
+<img src="Screenshot 2026-01-16 183312.png" alt="Screenshot">
+
