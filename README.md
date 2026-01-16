@@ -79,4 +79,5 @@ Step 6: Power BI dashboard auto-refreshes
 - Multi-database & multi-format suppor
 <img src="Screenshot 2026-01-16 183312.png" alt="Screenshot">
 <img src="Screenshot 2026-01-16 183329.png" alt="Screenshot">
+<img src="Screenshot 2026-01-16 183353.png" alt="Screenshot">
 
